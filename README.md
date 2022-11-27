@@ -35,7 +35,7 @@ Bên cạnh chiến đấu với cách loại rác, để hoàn thành trò chơ
 <!-- NGƯỜI HƯỚNG DẪN -->
 <div id="Nguoihuongdan"></div>
 
-## IV. Người hướng dẫn
+## III. Hướng dẫn sử dụng
 * Hướng dẫn sử dụng: 
 Di chuyển: A, D
 Lướt: C
@@ -46,7 +46,7 @@ https://drive.google.com/drive/folders/1Z7HPMCH9n2w0aZJg9fajcNBxgmFqw3h6?fbclid=
 <!-- TÁC GIẢ -->
 <div id="Tacgia"></div>
 
-## III. Tác giả
+## IV. Tác giả
 * [Lê Hải Phong](https://github.com/HaiPhong146)
 * [Văn Võ Thành Nhân](https://github.com/NhanVo-gmt)
 
