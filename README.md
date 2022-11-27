@@ -48,7 +48,8 @@ https://drive.google.com/drive/folders/1Z7HPMCH9n2w0aZJg9fajcNBxgmFqw3h6?fbclid=
 
 ## IV. Tác giả
 * [Lê Hải Phong](https://github.com/HaiPhong146)
-* [Văn Võ Thành Nhân](https://github.com/NhanVo-gmt)
+* [Võ Văn Thành Nhân](https://github.com/NhanVo-gmt)
+* [Nguyễn Vương Quốc](https://github.com/KingdomNguyen)
 
 <!-- TỔNG KẾT -->
 <div id="Tongket"></div>
