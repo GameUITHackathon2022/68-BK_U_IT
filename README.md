@@ -1,11 +1,7 @@
-# 68-BK_U_IT
 <div id="Top"></div>
 
 # DŨNG SỸ DIỆT RÁC
 Bảo vệ một môi trường xanh, sạch, đẹp.
-
-<!-- LOGO CINEMA -->
-![Logo Cinema](./ImageApp/CinemaSquadin.jpg)
 
 ## Mục lục
 
@@ -40,14 +36,19 @@ Bên cạnh chiến đấu với cách loại rác, để hoàn thành trò chơ
 <div id="Nguoihuongdan"></div>
 
 ## IV. Người hướng dẫn
-* Hướng dẫn sử dụng
+* Hướng dẫn sử dụng: 
+Di chuyển: A, D
+Lướt: C
+Tấn công: Chuột trái
+* File cài đặt:
+https://drive.google.com/drive/folders/1Z7HPMCH9n2w0aZJg9fajcNBxgmFqw3h6?fbclid=IwAR2nz6f0QNIksqe0Zh7TOGL8marZ_Bfw7GwJZd7n4-Fc6AHruueYo10rAeA
 
 <!-- TÁC GIẢ -->
 <div id="Tacgia"></div>
 
 ## III. Tác giả
 * [Lê Hải Phong](https://github.com/HaiPhong146)
-* [Lê Hải Phong](https://github.com/NhanVo-gmt)
+* [Văn Võ Thành Nhân](https://github.com/NhanVo-gmt)
 
 <!-- TỔNG KẾT -->
 <div id="Tongket"></div>
